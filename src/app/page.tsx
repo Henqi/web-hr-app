@@ -3,7 +3,7 @@ import Image from 'next/image'
 export default function Home() {
   return (
   <div>
-    <div>Weclcome to my web HR app, where anything is possible!</div>
+    <div>Welcome to my web HR app, where anything is possible!</div>
     <div className='flex justify-center items-center'>
       <Image 
         alt='Polar H10' 
