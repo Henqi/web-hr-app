@@ -6,5 +6,5 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      # Check for updates to npm packages daily
+      # Check for updates to npm packages weekly
       interval: "weekly"
